@@ -1,0 +1,99 @@
+#title {
+  background-color: #ffffcc;
+  height: 120px;
+  margin: 50px;
+  text-align: center;
+  color: #A00000;
+  font-family: arial;
+  padding: 5px;
+  background-image: url("https://s-media-cache-ak0.pinimg.com/736x/49/bf/6e/49bf6e1211603e19123653ef2c6a9edf.jpg");
+  background-position: center; 
+  background-size: contain;
+}
+
+#body {
+  text-align: center;
+}
+
+#nav {
+  margin: 50px;
+  margin-top: 50px;
+}
+
+#nav a {
+  color: #A00000;
+  font-family: arial;
+  font-size: 20px;
+  text-decoration: none;
+  width: 33%;
+  display: inline-block;
+  text-align: center;
+  background-color: #99FFFF;
+}
+
+#img1,#img2,#img3,#img4{
+  clear:both;
+  margin: 100px;
+}
+
+#img5,#img6,#img7,#img8{
+  clear: both;
+  margin: 100px;
+}
+
+#img9{
+  clear: both;
+  margin: 100px;
+  padding: 50px;
+}
+#spotlight{
+  background-color: #ffffcc;
+  color: skyblue;
+  margin: 50px;
+  text-align:center;
+  font-style: italic;
+}
+
+#mark{
+  color: skyblue;
+  background-color:#ffffcc;
+  font-style: italic;
+  margin: 50px;
+}
+#footer{
+  background-color: #99FFFF;
+  height: 200px;
+  color: #A00000;
+  font-style: italic;
+  margin: 50px;
+  text-align: center;
+  padding: 40px;
+  letter-spacing: 2px;
+}
+#footer2 {
+  padding:20px;
+}
+#contact1{
+  background-color: #ffffcc;
+  color: skyblue;
+  letter-spacing: 2px;
+  font-style: italic;
+  text-align: center;
+  margin: 50px;
+  font-size: 20px;
+  padding: 5px;
+}
+
+#lastfooter{
+  background-color: #99FFFF;
+  font-style: italic;
+  margin: 50px;
+  letter-spacing: 2px;
+  color: #A00000;
+  text-align: center;
+  font-size: 20px;
+  padding: 5px;
+}
+#pp1{
+  color:#A00000;
+}
